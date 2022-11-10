@@ -1,4 +1,12 @@
 ### Hi there 👋
+![hello](https://views.whatilearened.today/views/github/MilesPoupart/deplives.svg)
+
+<p align="center">
+    <a href="https://github.com/MilesPoupart">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MilesPoupart&include_all_commits=true&count_private=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    </a>
+</p>
+
 
 <!--
 **MilesPoupart/MilesPoupart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
